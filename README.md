@@ -4,4 +4,4 @@
 
 ## Service
 
-(https://akeome.2017.simo.website/)[https://akeome.2017.simo.website/]
+https://akeome.2017.simo.website/
